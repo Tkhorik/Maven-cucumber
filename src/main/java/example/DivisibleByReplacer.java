@@ -1,5 +1,5 @@
 package example;
-
+//comment jff
 public class DivisibleByReplacer implements IPlayedNumberChecker {
     private int _divisor;
     private String _replacement;
